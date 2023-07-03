@@ -9,7 +9,7 @@ repository = "https://github.com/HullSeals/api"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-ariadne = "^0.19.1"
+ariadne = "^0.20.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
